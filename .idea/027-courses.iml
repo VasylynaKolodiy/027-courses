@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="flowplayer" level="application" />
+    <orderEntry type="library" name="hls" level="application" />
+    <orderEntry type="library" name="chromecast" level="application" />
+    <orderEntry type="library" name="video-js" level="application" />
+    <orderEntry type="library" name="video" level="application" />
+    <orderEntry type="library" name="videojs-media-sources" level="application" />
+    <orderEntry type="library" name="videojs.hls" level="application" />
+    <orderEntry type="library" name="video.js" level="application" />
+    <orderEntry type="library" name="videojs-contrib-hls" level="application" />
+    <orderEntry type="library" name="hls.js" level="application" />
+  </component>
+</module>
