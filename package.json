@@ -1,4 +1,5 @@
 {
+  "homepage": "https://velisssa.github.io/027-courses",
   "name": "027-courses",
   "version": "0.1.0",
   "private": true,
@@ -27,6 +28,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -52,6 +55,7 @@
   },
   "devDependencies": {
     "@types/hls.js": "^1.0.0",
+    "gh-pages": "^5.0.0",
     "sass": "^1.59.2"
   }
 }
